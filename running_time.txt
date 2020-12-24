@@ -1,0 +1,1 @@
+Script: Fault_tree. Running time for Test_cases/input_out.txt is 1.2646689415 seconds

@@ -1,2 +1,4 @@
 Parsing time for .\tasks\topo-3456.cnf is 3.6210000515 seconds
 Parsing time for .\tasks\topo-27648.cnf is 180.02699995 seconds
+Parsing time for ./Test_cases/xml.txt is 0.000754833221436 seconds
+Parsing time for Test_cases/input.txt is 0.00153708457947 seconds
